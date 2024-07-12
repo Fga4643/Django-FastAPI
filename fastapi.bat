@@ -1,0 +1,1 @@
+python -m uvicorn mysite.asgi:fastapp --reload
